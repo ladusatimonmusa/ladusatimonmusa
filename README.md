@@ -1,4 +1,4 @@
-# Hi, I'm Ladu Satimon 👋
+# Hi, I'm Ladu Satimon 
 
 ### Computer Science Student \| AI & Data Science Enthusiast
 
